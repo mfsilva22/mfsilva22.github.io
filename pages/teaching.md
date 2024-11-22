@@ -8,8 +8,8 @@ header: Teaching Activities and Innovations
 
 I have taught eight different undergraduate courses with over 7200 students, from freshman to senior level. Throughout my teaching I observed and improved how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
 
-<!-- #### My most recent developments
- -->
+#### Teaching practices adopted in my Numerical Methods course
+
 
 - [Increasing student participation and motivation ]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
 

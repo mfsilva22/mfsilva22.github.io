@@ -14,7 +14,7 @@ header: Conference and Journal Publications
 
 0.	Ferrao R., Montagner I, Silva M., Zilles C., Azevedo R., [“Embedded-check: a Code Quality Tool for Automatic Firmware Verification”](https://dl.acm.org/doi/10.1145/3649217.3653577), Proceedings of the 2024 Innovation and Technology in Computer Science Education (ITiCSE 2024), 2024.
 
-0.	Gulati R., Zilles C., West M., Silva M., ["Unpacking the influence of computer-based testing modalities on student study behaviour and performance"](https://library.iated.org/view/GULATI2024UNP), Proceedings of the 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024.
+0.	Gulati R., Zilles C., West M., Silva M., ["Unpacking the influence of computer-based testing modalities on student study behaviour and performance"]({{ site.baseurl }}{% link pages/papers/GULATI2024UNP.pdf %}), Proceedings of the 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024.
 
 0.	Ferrao R., Azevedo R., Silva M., [“Helping students to start a project”](https://library.iated.org/view/FERRAO2024HEL), abstract only, 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024.
 

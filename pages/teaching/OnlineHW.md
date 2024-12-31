@@ -1,25 +1,12 @@
 ---
 permalink: teaching/online_assessments/
 
-header:  Online assessments
+header:  Computer-based assessments
 ---
 
-At the end of my first semester teaching an undergraduate class of about 200 students in Spring 2012, I had two full boxes of un-collected homework assignments on the floor of my office. During the semester, students submitted hand-written solutions to homework problems that were graded by teaching assistants over the course of one week, and returned to students with extensive feedback a week after the deadline. Unfortunately, about 1/3 of the students never collected their graded homework, and hence were not able to get any useful feedback about their understanding of the course material. In the following semester, I decided to start using existing online homework systems, experimenting with [McGraw-Hill Connect](https://www.mheducation.com/highered/connect) and [Pearson MasteringEngineering](https://www.pearsonmylabandmastering.com/northamerica/masteringengineering/). Unfortunately, the available questions were not always adequate to my teaching style, and I didn't have the flexibility to decide on partial credit points or the type of feedback provided.
+All my course assessments are created using PrairieLearn, an online problem-driven learning system that enables the creation of problem generators. These problem generators are designed to produce unique problem instances with varying numeric values or other modifications, ensuring that the correct answer differs across attempts. Most problems are auto-graded and provide immediate feedback, providing the following benefits: a) students can get immediate feedback about their knowledge, and adjust their studying accordingly, b) grading is more consistent among all the students, which is specially difficult when grading more than 200 assignments, c) course staff is not spending a huge amount of time grading papers that are often not collected, and instead can focus on creating better course content and experiment with innovations in the classroom.
 
-In Fall 2015, I started creating my own homework assignments using [PrairieLearn](https://www.prairielearn.com), an online problem-driven learning system that allows me to author problem generators, which creates randomly parameterized problem instances. Problem generators are typically written to create problem instances with different numeric values or other changes so that the correct answer is different.
-
-<!--
-1. **Auto-graded questions with instant feedback.** Three big benefits here: a) students can get immediate feedback about their knowledge, and adjust their studying accordingly, b) grading is more consistent among all the students, which is specially difficult when grading more than 200 homework sets on a weekly basis, c) course staff is not spending a huge amount of time grading papers that are often not collected, and instead can focus on creating better course content and experiment with innovations in the classroom.
-
-2. **Randomization of questions.** Question variables are parametrized such that students receive different versions of a problem.
-
-3. **Ability to use computer-based testing facilities to administer the exams.**
-This gives students the flexibility to take exams at different times and locations, drastically reducing the need for conflict and make-up exams.
-
-4. **Environmentally friendly.** I don't need to walk around campus carrying a huge pile of papers, or have them accumulating in my office. -->
-
-
-Homework and exams assigned in PrairieLearn consist of a set of problem generators (examples <a href="{{ site.baseurl }}{% link pages/examples.md %}#PL_questions">here</a>). The grading method and retry options for these assessments are different and summarized below:
+Homework and exams assigned in PrairieLearn consist of a set of problem generators, which include both [non-coding]({{ site.baseurl }}{% link pages/examples/non_coding_pl.md %}) and [coding]({{ site.baseurl }}{% link pages/examples/short_coding_pl.md %}) questions. The grading methods and retry options for these assessments vary and are summarized below:
 
 ### Homework assignments:
 
@@ -44,7 +31,6 @@ Students can still generate other instances after the question is marked as corr
   <figcaption class="figure-caption text-center"> Figure 3: A question marked as correct still gives the option of trying other instances, allowing students to get more practice. </figcaption>
    </figure>
 
-
 ### Exams and/or short quizzes:
 
 The same problem generator included in an exam will have a different behavior when creating problem instances. Figure 4-6 illustrate another instance of the same problem appearing on a quiz. In this question, students have two attempts to get the question correctly. A student who has an incorrect submission in the first attempt can try the **same** question again (and not another instance) for a reduced amount of points.  
@@ -62,5 +48,5 @@ The same problem generator included in an exam will have a different behavior wh
 
   <figure class="text-center border">
      <img src="{{ site.baseurl }}/pages/images/quiz_submitted_2.png" alt="" style="display: block; margin-left: auto; margin-right: auto; margin-top:10px; max-height: 550px; max-width: 90%;  clear:">
-  <figcaption class="figure-caption text-center"> Figure 6: The submitted answer was correct, and the question cannot be answered again. The awarded points was 1/4. ]  </figcaption>
+  <figcaption class="figure-caption text-center"> Figure 6: The submitted answer was correct, and the question cannot be answered again. The awarded points was 1/4.  </figcaption>
    </figure>

@@ -4,7 +4,7 @@
 
 layout: home
 
-header:  About me
+header: Mariana Silva
 ---
 
 <img src="{{ "/static/mfsilva_snow.jpg" | relative_url }}" alt="Mariana Silva" style="float: left; margin-right: 25px; max-height: 280px; max-width: 50%; border: solid 1px black; clear:">
@@ -21,6 +21,4 @@ Silva holds a Bachelor’s and a Master’s degree in mechanical engineering fro
 
 Silva has extensive experience in course development across engineering, computer science, and mathematics and is passionate about advancing teaching innovations that benefit students and instructors alike. She is an expert in the development and application of computer-based tools for teaching and learning in large STEM university courses. Her current research investigates the use of educational technologies to enhance computer-based assessments and centralized computer-based testing centers. This includes leveraging Large Language Models (LLMs) for automated short-answer grading and the creation of robust, randomized question generators to improve equity, accessibility, and scalability in teaching, learning and testing practices.
 
-
-
-<!-- Silva is the Principal Investigator for the NSF IUSE Grant “Enhancing Equity and Access via Digitally-Mediated Collaborative Learning Experiences,” which examines the intersections of online learning, equity, and access.  -->
+<br>

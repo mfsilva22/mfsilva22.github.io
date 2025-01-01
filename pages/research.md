@@ -4,29 +4,45 @@ permalink: /research/
 header: Educational Research Activities and Impact
 ---
 
-## Research Statement
+## Current Research
 
-My research work is often motivated by the challenges I encounter when I teach. They provoke my curiosity to understand how students learn, how I can enhance their learning motivation, and how I can improve my learning goals and assessments. My research interests have been focused in three areas: (a) improvement of assessment tools, (b) development of collaborative learning activities to promote student's interaction, and (c) innovation and improvement of courses via communities of practice.
+#### ASAG
 
-## A) Assessment tools
+#### AI generation generation
 
-- [Improving assessments with frequent testing and second-chance exams]({{ site.baseurl }}{% link pages/research/TAM_frequent_test.md %})
+#### Collaborative learning
+
+#### Test anxiety during computer-based testing
+
+#### CS 101 redesign
 
 
-- [Investigating the effect of cheating during computer-based testing]({{ site.baseurl }}{% link pages/research/Async_Advantage.md %})
+## Past Research
+
+#### Comparison of computer-based testing modalities
+
+
+
+#### Online vs in-person
+
+#### Flexible deadline
+
+#### Study habits using practice quizzes
+
+#### Frequent Testing
+
+[Improving assessments with frequent testing and second-chance exams]({{ site.baseurl }}{% link pages/research/TAM_frequent_test.md %})
+
+
+
+## Archived (?) Research
 
 
 - [A drawing-based tool for online assessments]({{ site.baseurl }}{% link pages/research/PLdrawing.md %})
 
-
-## B) Collaborative Learning Activities
-
 - [Using software to encourage collaboration]({{ site.baseurl }}{% link pages/research/Collaborative_Learning_Large_Classes.md %})
 
 - [Collaborative activities as part of an intervention study]({{ site.baseurl }}{% link pages/research/Intervention.md %})
-
-
-## C) Working with other faculty to improve teaching and learning
 
 - [ Innovation and improvement of courses via community of practices ]({{ site.baseurl }}{% link pages/research/CoP.md %})
 

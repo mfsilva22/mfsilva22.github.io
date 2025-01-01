@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 
-header: Teaching Activities and Innovations
+header: Teaching Activities
 ---
 
 ## Evidence-based teaching practices

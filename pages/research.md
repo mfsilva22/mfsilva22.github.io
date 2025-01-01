@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 
-header: Educational Research Activities and Impact
+header: Educational Research Activities
 ---
 
 ## Current Research
@@ -48,4 +48,4 @@ header: Educational Research Activities and Impact
 
 - [ Development of a web-tool to build project teams based on student’s preferences ]({{ site.baseurl }}{% link pages/research/Junto.md %})
 
-- [Faculty Development Workshop]({{ site.baseurl }}{% link pages/research/iCEC.md %})
+<!-- - [Faculty Development Workshop]({{ site.baseurl }}{% link pages/research/iCEC.md %}) -->

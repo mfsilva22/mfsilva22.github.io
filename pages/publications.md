@@ -4,6 +4,8 @@ permalink: /publications/
 header: Conference and Journal Publications
 ---
 
+<br>
+
 0.	Emeka C., Herman G., Sosnowski J., West M., Zilles C., Silva M., [“Measuring test anxiety of two computerized exam approaches ”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/81/Measuring-Test-Anxiety-of-Two-Computerized-Exam-Approaches), to appear in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
 
 0.	Montagner I, Ferrao R., Zilles C., Silva M., [“Exploring different specification grading policies”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/165/Exploring-Different-Specifications-Grading-Policies), to appear in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.

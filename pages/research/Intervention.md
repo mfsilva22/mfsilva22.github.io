@@ -8,11 +8,9 @@ One of the challenges of teaching large upper-division undergraduate classes wit
 For example, one of the classes I teach requires Python as programming language, however not every student that takes the class has prior experience with Python. Moreover, the overall programming skill level is not uniform among the students, which can be partially explained due to the large diversity of majors in the class (44% CS, 19% CS + X, 19% Engineering and 18% other majors). This disparity in programming background can greatly affect the overall students' experience in the classroom and potentially their overall course performance.
 
 The motivation of this study was based on two research questions:
-
 
 RQ1: Can performance from assessments in the beginning of a course corresponding to
 prerequisite content be used to predict performance at the end of the semester?
-
 
 RQ2: Can we improve the student experience in a course by implementing interventions
 based on the results of these early predictions?

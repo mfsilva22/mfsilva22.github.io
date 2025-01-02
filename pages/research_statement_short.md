@@ -23,7 +23,7 @@ A few years ago, I developed an interactive drawing question framework using Jav
 
 ## B) Collaborative Learning Activities
 
-##### [Development of collaborative learning activities in large classes]({{ site.baseurl }}{% link pages/research/Collaborative_Learning_Large_Classes.md %})
+##### [Development of collaborative learning activities in large classes]({{ site.baseurl }}{% link pages/research/Tablet-Collaboration.md %})
 
 One great way of learning is by teaching. Collaborative learning activities provide the space for students to construct their own knowledge, while helping other students simultaneously.  In addition, it is much easier to focus on a given activity for the duration of a class when you are actively thinking, instead of just "listening". I have created many collaborative learning activities for the courses I teach, both for the smaller discussion sections, and also for the large size lectures. The learning goals for these classes do not only include understanding of technical content, but also practice of soft-skills such as collaboration, creativity, and critical thinking.
 

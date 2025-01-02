@@ -4,7 +4,7 @@
 
 layout: home
 
-header: Mariana Silva
+header: Welcome to my homepage
 ---
 
 <img src="{{ "/static/mfsilva_snow.jpg" | relative_url }}" alt="Mariana Silva" style="float: left; margin-right: 25px; max-height: 280px; max-width: 50%; border: solid 1px black; clear:">

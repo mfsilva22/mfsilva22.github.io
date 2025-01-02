@@ -21,9 +21,3 @@ In Fall 2020, motivated to get students to interact in the classroom while teach
 
 When students collaborate, there is often a rapid exchange of ideas that challenge students to think deeper on the underlying engineering principles. The learning goals for such classes do not only include understanding of technical content, but also practice of soft-skills such as creativity and critical thinking.
 
-
-Read more:
-
-- [How I transformed a classroom from traditional to active learning style]({{ site.baseurl }}{% link pages/teaching/Active_classroom.md %})
-
-- [Using digital tools to increase collaboration]({{ site.baseurl }}{% link pages/research/Collaborative_Learning_Large_Classes.md %})

@@ -45,18 +45,6 @@ I believe instructors become better educators when they collaborate within a sup
 - [WIP: redesign of a CS1 course (intro to Python for engineering students)]({{ site.baseurl }}{% link pages/research/CoP-CS101.md %})
 - [Prior course redesigns via community of practices ]({{ site.baseurl }}{% link pages/research/CoP.md %})
 
-<!-- 
-### Current research
-
-- WIP [Redesign of CS1 - intro to Python for engineering students]({{ site.baseurl }}{% link pages/research/CoP-CS101.md %})
-
-### Previous research highlights
-
-- [Incorporating Python in engineering courses]({{ site.baseurl }}{% link pages/research/CoP-Python.md %})
-- [Redesign of Linear Algebra for engineering students]({{ site.baseurl }}{% link pages/research/CoP-LinearAlgebra.md %})
-- [Redesign of Mechanics sequence - Statics, Dynamics and Solid Mechanics]({{ site.baseurl }}{% link pages/research/CoP-Mechanics.md %}) -->
-
-
 ## Other previous research studies
 
 - [A drawing-based tool for online assessments]({{ site.baseurl }}{% link pages/research/PLdrawing.md %})

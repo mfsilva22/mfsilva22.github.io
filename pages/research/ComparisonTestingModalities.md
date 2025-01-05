@@ -75,5 +75,6 @@ In a follow-up study, we compared student self-reported test anxiety between two
 We found no statistically significant differences between testing modes on  students' test anxiety.  We did replicate prior findings showing positive correlations between trait anxiety and test anxiety and inverse correlations between test anxiety and exam score. From a test anxiety perspective, our findings indicate that either a CBTF or BYOD configuration for computerized exams is an acceptable means for addressing large classes and/or a desire to permit computational elements.
 
 <small>
+Grant: "Test anxiety in the CBTF", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team:  Mariana Silva, Matthew West, Geoffrey Herman, Craig Zilles, Julie Baker, Dave Mussulman, Jim Sosnowski, 2023-2025.\\
 Emeka C., Herman G., Sosnowski J., West M., Zilles C., Silva M., [“Measuring test anxiety of two computerized exam approaches”](https://dl.acm.org/doi/10.1145/3649217.3653536), Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
 </small>

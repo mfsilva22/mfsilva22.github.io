@@ -28,3 +28,8 @@ Both policies led to fewer than 25% of students completing homeworks by the 100%
     Homework completion rates for a "traditional" semester without a flexible schedule compared to the Lenient and Strict semesters with flexible deadlines. Homework is considered complete when a student achieves an 80% score or higher. Completion rates by the full credit deadline dropped from 80% in the traditional semester to below 25% with the introduction of flexible deadlines.
    </figcaption>
 </figure>
+
+<small>
+Zhao C., West M., Silva M., [“How much deadline flexibility on formative assessments should we be giving to our students?”](https://peer.asee.org/how-much-deadline-flexibility-on-formative-assessments-should-we-be-giving-to-our-students), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.\\
+Garcia D., Fox A., Zilles C., West M., Silva M., Terrell N., Russell S., Ambrosio E., Shakir F., [“A’s for All (as Time and Interest Allow)”](https://dl.acm.org/doi/abs/10.1145/3545945.3569847), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), 2023. 
+</small>

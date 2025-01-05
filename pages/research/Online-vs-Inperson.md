@@ -30,3 +30,7 @@ These findings suggest that online sections for on-campus students can effective
     (a) Average score for each assignment group and (b) average score for a sense of belonging at the start and end of the semester for students, in the online and in-person sections, split by gender.
    </figcaption>
 </figure>
+
+<small>
+Gulati R., West M., Zilles C., Silva M., [“Comparing Student Outcomes in Online vs. In-person Sections of an On-campus Computer Science Course”](https://nemo.asee.org/public/conferences/327/papers/38668/view), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.
+</small>

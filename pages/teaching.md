@@ -4,9 +4,9 @@ permalink: /teaching/
 header: Teaching Activities
 ---
 
-## Evidence-based teaching practices
+## Evidence-based teaching practices 
 
-Since 2012, I’ve taught over 10 different courses and nearly 10,000 students. Over the years, I’ve enjoyed experimenting with pedagogies rooted in both well-established teaching literature and my own data-driven insights. Below, I’ll summarize how I currently structure the main course I teach, Numerical Methods. Details about the rationale behind some of these methodologies are described in the [Research page]({{ site.baseurl }}{% link pages/research.md %}).
+Since 2012, I’ve taught over 10 different courses and nearly 10,000 students. Over the years, I’ve enjoyed experimenting with pedagogies rooted in both well-established teaching literature and my own data-driven insights. Below, I’ll summarize how I currently structure the main course I teach, <a href="https://cs357.cs.illinois.edu" target="blank">Numerical Methods</a>. Details about the rationale behind some of these methodologies are described in the [Research page]({{ site.baseurl }}{% link pages/research.md %}).
 
 #### Flipped Classroom
 Since Fall 2020, I’ve been running my course in a flipped format, which is as much about flipping the script on traditional lectures as it is about flipping the responsibility onto students (in a good way). Here is how the course is organized: 

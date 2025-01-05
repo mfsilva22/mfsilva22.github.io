@@ -21,7 +21,7 @@ One of our goals was to determine if certain testing modalities provided a perfo
 <table class="table table-striped" >
   <thead>
     <tr>
-      <th scope="col" nowrap>Semester</th>
+      <th scope="col" >Semester</th>
       <th scope="col">Group A</th>
       <th scope="col">Group B</th>
       <th scope="col">Performance advantage</th>

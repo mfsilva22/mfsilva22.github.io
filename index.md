@@ -7,7 +7,7 @@ layout: home
 header: Welcome to my homepage
 ---
 
-<img src="{{ "/static/mfsilva_snow.jpg" | relative_url }}" alt="Mariana Silva" style="float: left; margin-right: 25px; max-height: 280px; max-width: 50%; border: solid 1px black; clear:">
+<img src="{{ "/static/mfsilva.jpg" | relative_url }}" alt="Mariana Silva" style="float: left; margin-right: 25px; max-height: 280px; max-width: 50%; border: solid 1px black; clear:">
 
 I have been innovating teaching, content, and assessments in large-scale classes such as Numerical Methods, Introduction to Python, Linear Algebra,Solid Mechanics and Statics. I am very passionate about teaching and improving the classroom experience for both students and instructors. My research explores the development and application of educational technologies to enhance computer-based assessments and centralized computer-based testing centers. This includes leveraging Large Language Models (LLMs) to automate the grading of short-answer questions and to design robust, randomized question generators that support innovative and scalable assessment practices.
 

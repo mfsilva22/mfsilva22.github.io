@@ -17,8 +17,19 @@ In our initial study, we explored various training methods and models to autogra
 To benchmark the models, we also recruited human graders to assess the same proofs used in the training data. The best-performing grading models (Llemma7b and Llemma 34b) proved to be more accurate than most human graders, highlighting the potential of ASAG systems to surpass human capabilities in grading consistency and precision.
 
 <figure class="figure border m-3 rounded mx-auto d-block">
-   <img src="{{ site.baseurl }}/pages/images/per_grader.pdf" alt="" style="display: block; margin-left: auto; margin-right: auto; margin-top:10px;
-   margin-bottom:10px; max-height: 400px; max-width: 90%;  clear:">
+   <img 
+      src="{{ site.baseurl }}/pages/images/per_grader.pdf" 
+      alt="" 
+      style="
+         display: block; 
+         margin-left: auto; 
+         margin-right: auto; 
+         margin-top: 10px; 
+         margin-bottom: 10px; 
+         width: 90%; 
+         max-width: 1200px; 
+         height: auto; 
+         clear: both;">
    <figcaption class="figure-caption text-center"> Average accuracy for each grading model and human grader. Human graders familiar with the grading rubrics are indicated by the letter A, and the ones with less experience are indicated by the letter B. Graders with more experience with the grading rubrics achieve higher accuracy than unexperienced graders and all grading models. </figcaption>
  </figure>
 

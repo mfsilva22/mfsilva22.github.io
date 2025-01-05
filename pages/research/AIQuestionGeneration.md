@@ -17,8 +17,19 @@ This project aims to develop an authoring environment that allows instructors wi
 Instructors still need to verify that the generated questions function as intended and refine the prompts if needed. Preliminary user studies with six instructors show that the AI question generator successfully creates working questions over 60% of the time. We are currently refining the implementation to improve accuracy and ease of use. 
 
 
-<figure class="figure border m-3 rounded mx-auto d-block">
-   <img src="{{ site.baseurl }}/pages/images/QGAI-1.pdf" alt="" style="display: block; margin-left: auto; margin-right: auto; margin-top:10px;
-   margin-bottom:10px; max-height: 400px; max-width: 90%;  clear:">
+<figure class="figure  m-3 rounded mx-auto d-block">
+   <img 
+      src="{{ site.baseurl }}/pages/images/QGAI-1.pdf" 
+      alt="AI question generator interface" 
+      style="
+         display: block; 
+         margin-left: auto; 
+         margin-right: auto; 
+         margin-top: 10px; 
+         margin-bottom: 10px; 
+         width: 90%; 
+         max-width: 1200px; 
+         height: auto; 
+         clear: both;">
    <figcaption class="figure-caption text-center"> Example prompt on the left and the question generator created by the Gen-AI algorithm on the right. Instructors can refine the question by providing additional prompts or review the source code of the question generator. </figcaption>
 </figure>

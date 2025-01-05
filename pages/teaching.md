@@ -40,7 +40,7 @@ In addition to supporting learning, practice quizzes help reduce anxiety by fami
 
 #### Flexible formative assessment deadlines
 
-One way to encourage students to stay on track with course content is by implementing frequent and strict deadlines for formative assessments. However, strict deadline policies can increase students’ stress, lead to rushed or poor-quality submissions, and even incentivize cheating. From one of my [research studies](), I found that removing deadlines entirely can result in a significant number of students procrastinating and submitting formative assignments late, which negatively impacts their performance on summative assessments. To balance these challenges, I have adopted a flexible deadline policy for all formative assessments.
+One way to encourage students to stay on track with course content is by implementing frequent and strict deadlines for formative assessments. However, strict deadline policies can increase students’ stress, lead to rushed or poor-quality submissions, and even incentivize cheating. From one of my [research studies]({{ site.baseurl }}{% link pages/research/FlexibleDeadline.md %}), I found that removing deadlines entirely can result in a significant number of students procrastinating and submitting formative assignments late, which negatively impacts their performance on summative assessments. To balance these challenges, I have adopted a flexible deadline policy for all formative assessments.
 
 This policy allows students to earn full credit (100%) if they submit assignments within one week of their release, encouraging them to stay on track with the course schedule. For assignments submitted after this initial period but before the corresponding quiz date, students can still earn 96% credit. This approach provides flexibility for students who may need extra time while maintaining an incentive to engage with the material promptly, ultimately promoting better learning outcomes.
 
@@ -54,7 +54,7 @@ The primary difference between the two sections lies in how students complete th
 
 - Online section: Students have no attendance requirement and can complete the same in-class activities asynchronously with their groups. During lecture time, they have the option to join a Zoom meeting supported by teaching assistants (also maintaining a 20:1 student-to-instructor ratio). Within Zoom, students can collaborate in breakout rooms and request help from the course staff as needed. Alternatively, they can work with their groups at a time of their choosing during the lecture day, either remotely or in person.
 
-A [research study]() I conducted revealed that this flexible approach, which accommodates varying student preferences and simplifies class scheduling, did not lead to statistically significant differences in the overall performance of students who chose the online section compared to those in the in-person section. This indicates that offering both modalities effectively meets diverse student needs without compromising learning outcomes.
+A [research study]({{ site.baseurl }}{% link pages/research/Online-vs-Inperson.md %})  I conducted revealed that this flexible approach, which accommodates varying student preferences and simplifies class scheduling, did not lead to statistically significant differences in the overall performance of students who chose the online section compared to those in the in-person section. This indicates that offering both modalities effectively meets diverse student needs without compromising learning outcomes.
 
 
 ## Teaching experience

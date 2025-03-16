@@ -6,11 +6,19 @@ header: Conference and Journal Publications
 
 <br>
 
+0.  Sosnowski J., Baker J., Arnold O., Silva M., Mussulman D., Zilles C., West M., "Do Centralized Testing Centers Influence Test Anxiety for Engineering Students?", accepted to appear in Proceedings of the 2025 American Society for Engineering Education Conference (ASEE 2025), 2025.
+
+0.  Zhao C., Chen Y., Feng K., Silva M.,"Implementing a Tool for Structured Roles in Hybrid Collaborative Learning Environments", accepted to appear in Proceedings of the 2025 American Society for Engineering Education Conference (ASEE 2025), 2025.
+
+0. Chen Y., Zhao C., Feng K., Beckman M., Silva M., "A Complete Redesign of CS1 for Engineering Students", accepted to appear in Proceedings of the 2025 American Society for Engineering Education Conference (ASEE 2025), 2025.
+
+0. Zhao C., Silva M., Poulsen S., ["Language Models are Few-Shot Graders"](https://arxiv.org/abs/2502.13337), under conference review, arXiv 2025.
+
 0.	Emeka C., Herman G., Sosnowski J., West M., Zilles C., Silva M., [“Measuring test anxiety of two computerized exam approaches ”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/81/Measuring-Test-Anxiety-of-Two-Computerized-Exam-Approaches), to appear in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
 
 0.	Montagner I, Ferrao R., Zilles C., Silva M., [“Exploring different specification grading policies”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/165/Exploring-Different-Specifications-Grading-Policies), to appear in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
 
-0. Zhao C., Silva M., Poulsen S., ["Autograding mathematical induction proofs with Natural Language Processing"](https://arxiv.org/abs/2406.10268), arXiv 2024.
+0. Zhao C., Silva M., Poulsen S., ["Autograding mathematical induction proofs with Natural Language Processing"](https://arxiv.org/abs/2406.10268), under journal review, arXiv 2024.
 
 0.	Emeka C., West M., Zilles C., Silva M., ["A comparison of proctoring regimens for computer-based Computer Science exams"](https://dl.acm.org/doi/10.1145/3649217.3653536) Proceedings of the 2024 Innovation and Technology in Computer Science Education (ITiCSE 2024), 2024.
 
@@ -18,7 +26,7 @@ header: Conference and Journal Publications
 
 0.	Gulati R., Zilles C., West M., Silva M., ["Unpacking the influence of computer-based testing modalities on student study behaviour and performance"]({{ site.baseurl }}{% link pages/papers/GULATI2024UNP.pdf %}), Proceedings of the 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024.
 
-0.	Ferrao R., Azevedo R., Silva M., [“Helping students to start a project”](https://library.iated.org/view/FERRAO2024HEL), abstract only, 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024.
+<!-- 0.	Ferrao R., Azevedo R., Silva M., [“Helping students to start a project”](https://library.iated.org/view/FERRAO2024HEL), abstract only, 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024. -->
 
 0.	Ferrao R., Montagner I, Silva M., Zilles C., Azevedo R., “Micro-specialization as solution to open-ended project”, poster, Proceedings of the 1st ACM Virtual Global Computing Education Conference(SIGCSE Virtual 2024), 2024.
 

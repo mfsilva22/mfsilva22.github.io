@@ -6,19 +6,49 @@ header: Conference and Journal Publications
 
 <br>
 
-0.  Sosnowski J., Baker J., Arnold O., Silva M., Mussulman D., Zilles C., West M., "Do Centralized Testing Centers Influence Test Anxiety for Engineering Students?", to appear in Proceedings of the 2025 American Society for Engineering Education Conference (ASEE 2025), 2025.
+0. Zhao C., Silva M., ["Exploring Fairness Perceptions in AI Grading Policies"](https://doi.org/10.1145/3803401.3812033), *Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education, Volume 2 (ITiCSE 2026)*, p. 896, 2026.
 
-0.  Zhao C., Chen Y., Feng K., Silva M.,"Implementing a Tool for Structured Roles in Hybrid Collaborative Learning Environments", to appear in Proceedings of the 2025 American Society for Engineering Education Conference (ASEE 2025), 2025.
+0. Levine J., Silva M., ["Correcting Transcripts: Student Interactions with VLM Graders"](https://doi.org/10.1145/3803401.3812001), *Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education, Volume 2 (ITiCSE 2026)*, p. 865, 2026.
 
-0. Chen Y., Zhao C., Feng K., Beckman M., Silva M., "A Complete Redesign of CS1 for Engineering Students", to appear in Proceedings of the 2025 American Society for Engineering Education Conference (ASEE 2025), 2025.
+0. Ferrão R. C., Montagner I. S., Silva M., Zilles C., ["Using LLM to Autograde Diagrams"](https://doi.org/10.1145/3803401.3811979), *Proceedings of the 31st ACM Conference on Innovation and Technology in Computer Science Education, Volume 2 (ITiCSE 2026)*, pp. 803–804, 2026.
 
-0. Zhao C., Silva M., Poulsen S., ["Language Models are Few-Shot Graders"](https://arxiv.org/abs/2502.13337), under conference review, arXiv 2025.
+0. Chen Y., Zhao C., Levine J., Feng K., Fowler M., Silva M., ["On Generating and Validating Erroneous Examples in CS1 Using LLMs"](https://doi.org/10.1007/978-3-032-29760-0_14), *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026), Part III*, pp. 122–131, 2026.
 
-0.	Emeka C., Herman G., Sosnowski J., West M., Zilles C., Silva M., [“Measuring test anxiety of two computerized exam approaches ”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/81/Measuring-Test-Anxiety-of-Two-Computerized-Exam-Approaches), in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
+0. Zhao C., Silva M., ["Human Oversight Is Not Neutral: How AI Grades Shape Human Grading Decisions"](https://doi.org/10.1007/978-3-032-29763-1_40), *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*, pp. 591–600, 2026.
 
-0.	Montagner I, Ferrao R., Zilles C., Silva M., [“Exploring different specification grading policies”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/165/Exploring-Different-Specifications-Grading-Policies), in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
+0. Levine J., Aenlle M., Zilles C., West M., Silva M., ["Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs"](https://doi.org/10.1007/978-3-032-29755-6_51), *Proceedings of the 27th International Conference on Artificial Intelligence in Education (AIED 2026)*, pp. 627–636, 2026.
 
-0. Zhao C., Silva M., Poulsen S., ["Autograding mathematical induction proofs with Natural Language Processing"](https://arxiv.org/abs/2406.10268), under journal review, arXiv 2024.
+0. Chen Y., Eggl S., Alawini A., Silva M., Fowler M., Umrawal A., Ornik M., ["WIP: Low Effort, High Grades? Benchmarking LLMs on Various Engineering Assignments"](https://doi.org/10.18260/1-2--61062), *Proceedings of the 2026 American Society for Engineering Education Annual Conference & Exposition (ASEE 2026)*, 2026.
+
+0. Zhao C., Fowler M., Gertner Y., Poulsen S., West M., Silva M., ["AI-Supported Grading and Rubric Refinement for Free Response Questions"](https://doi.org/10.1145/3770762.3772545), *Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 1 (SIGCSE TS 2026)*, pp. 1207–1214, 2026.
+
+0. Poulsen S., Herman G., Silva M., Fowler M., Smith D. H., Porter L., Ritschel N., Zilles C., West M., ["Enabling Open Educational Resource Adoption through Integrated Sharing in PrairieLearn"](https://doi.org/10.1145/3770762.3772503), *Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 1 (SIGCSE TS 2026)*, pp. 859–865, 2026.
+
+0. Chen Y., Zhao C., Feng K., Zhang J., Malhotra V., Silva M., ["Exploring LLMs for Generating Erroneous Examples in CS1"](https://doi.org/10.1145/3770761.3777210), poster, *Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026)*, pp. 1261–1262, 2026.
+
+0. Levine J., West M., Silva M., ["A Two-Stage LLM Pipeline for Handwritten Mathematics Autograding"](https://doi.org/10.1145/3770761.3777208), poster, *Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026)*, pp. 1413–1414, 2026.
+
+0. Garcia D., Fox A., Lopez P., Silva M., Zilles C., Ambrosio E., ["Actually Achieving 'A's for All' (as Time and Interest Allow)"](https://doi.org/10.1145/3770761.3777051), tutorial, *Proceedings of the 57th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2026)*, p. 1735, 2026.
+
+0. Ferrão R. C., Montagner I. S., Azevedo R., Silva M., Zilles C., ["Investigating the Impact of Automated Code Quality Feedback in an Embedded Systems Course"](https://doi.org/10.1145/3769994.3770035), *Proceedings of the 25th Koli Calling International Conference on Computing Education Research*, article 23, pp. 1–12, 2025.
+
+0. Zhao C., Silva M., Poulsen S., ["Autograding Mathematical Induction Proofs with Natural Language Processing"](https://doi.org/10.1007/s40593-025-00498-2), *International Journal of Artificial Intelligence in Education*, 35(5), pp. 3202–3232, 2025.
+
+0. Levine J., West M., Silva M., ["LLM Agents for Verifiable Question Generation and Grading"](https://doi.org/10.1007/978-3-031-99264-3_22), *Artificial Intelligence in Education (AIED 2025) Companion Proceedings, Part II*, pp. 177–184, 2025.
+
+0. Zhao C., Silva M., Poulsen S., ["Language Models are Few-Shot Graders"](https://doi.org/10.1007/978-3-031-98459-4_1), *Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED 2025), Part IV*, pp. 3–16, 2025.
+
+0. Emeka C., West M., Sosnowski J., Herman G., Zilles C., Silva M., ["Do Centralized Testing Centers Influence Test Anxiety for Engineering Students?"](https://doi.org/10.18260/1-2--56303), *Proceedings of the 2025 American Society for Engineering Education Annual Conference & Exposition (ASEE 2025)*, 2025.
+
+0. Zhao C., Chen Y., Feng K., Herman G., West M., Silva M., ["Implementing a Tool for Structured Roles in Hybrid Collaborative Learning Environments"](https://doi.org/10.18260/1-2--56751), *Proceedings of the 2025 American Society for Engineering Education Annual Conference & Exposition (ASEE 2025)*, 2025.
+
+0. Chen Y., Zhao C., Feng K., Beckman M., Silva M., ["A Complete Redesign of CS1 for Engineering Students"](https://doi.org/10.18260/1-2--55349), *Proceedings of the 2025 American Society for Engineering Education Annual Conference & Exposition (ASEE 2025)*, 2025.
+
+0. Sosnowski J., Fox A., Garcia D., Moosvi F., Silva M., West M., Zilles C., ["Experiences with Computer-Based Testing (CBT)"](https://doi.org/10.1145/3641555.3705092), panel, *Proceedings of the 56th ACM Technical Symposium on Computer Science Education, Volume 2 (SIGCSE TS 2025)*, p. 1728, 2025.
+
+0. Emeka C., Zilles C., Sosnowski J., West M., Herman G., Silva M., ["Measuring Test Anxiety of Two Computerized Exam Approaches"](https://doi.org/10.1145/3641554.3701964), *Proceedings of the 56th ACM Technical Symposium on Computer Science Education, Volume 1 (SIGCSE TS 2025)*, pp. 297–303, 2025.
+
+0. Montagner I. S., Ferrão R. C., Zilles C., Silva M., ["Exploring Different Specifications Grading Policies"](https://doi.org/10.1145/3641554.3701925), *Proceedings of the 56th ACM Technical Symposium on Computer Science Education, Volume 1 (SIGCSE TS 2025)*, pp. 276–282, 2025.
 
 0.	Emeka C., West M., Zilles C., Silva M., ["A comparison of proctoring regimens for computer-based Computer Science exams"](https://dl.acm.org/doi/10.1145/3649217.3653536) Proceedings of the 2024 Innovation and Technology in Computer Science Education (ITiCSE 2024), 2024.
 
